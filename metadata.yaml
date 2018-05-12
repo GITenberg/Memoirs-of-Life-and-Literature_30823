@@ -1,0 +1,30 @@
+_repo: Memoirs-of-Life-and-Literature_30823
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mallock, W. H. (William Hurrell)
+    aliases:
+    - Newdigate prizeman
+    - Mallock, William Hurrell
+    birthdate: 1849
+    deathdate: 1923
+    gutenberg_agent_id: '26239'
+    url: http://www.gutenberg.org/2009/agents/26239
+    wikipedia: http://en.wikipedia.org/wiki/William_Hurrell_Mallock
+description: ''
+gutenberg_issued: '2010-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mallock, W. H. (William Hurrell), 1849-1923'
+- !lcc 'PR'
+title: Memoirs of Life and Literature
+url: http://www.gutenberg.org/ebooks/30823
